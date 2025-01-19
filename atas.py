@@ -8,9 +8,7 @@ credithour = {
     "PHY" : 6,
     "CHEM" : 6,
     "PAI" : 5,
-    "PJK" : 3,
-    "SENI" : 2,
-    "SK" : 2,
+    "PJK" : 3
 }
 
 weight = {
