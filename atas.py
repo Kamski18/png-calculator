@@ -30,11 +30,11 @@ weight = {
 }
 
 def calculate():
-    marks = input("Enter your marks in order from up to down (space separated): ").split(" ")
+    marks = input("Enter your grade in order from up to down (space separated): ").split(" ")
 
     while len(marks) != len(credithour):
         print("Error: Number of subjects entered is not equal to the number of subjects in the list")
-        marks = input("Enter your marks in order from up to down (space separated): ").split(" ")
+        marks = input("Enter your grade in order from up to down (space separated): ").split(" ")
 
     totalcredits = 0
     total = 0
