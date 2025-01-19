@@ -13,7 +13,7 @@ First clone this repository by entering:
 then :
 
 ```bash
-  cd Kamski18
+  cd png-calculator
 ```
 finally :
 
