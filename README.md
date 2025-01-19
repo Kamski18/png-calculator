@@ -24,7 +24,7 @@ finally :
 if everything goes well then you may get something like :
 
 ```bash
-  Enter your marks in order from up to down (space separated): 
+  Enter your grade in order from up to down (space separated): 
 ```
 
 Now you need to know the order of the subject registered in the result slip ( in epelajar )
