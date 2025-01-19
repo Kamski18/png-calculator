@@ -47,7 +47,7 @@ Enter the grade for each of your subjects seperated by spaces and Done!
 
 ## Issues
 
-If the script return an unacceptable png, feel free to raise an issues about this to imporve the script. 
+If the script return an unacceptable png, feel free to raise an issues about this to improve the script. 
 
 * This script is made simple just to fulfill it task without any problem. therefore, many bug may be encountered while using this script
 
