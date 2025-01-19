@@ -40,8 +40,7 @@ PHY
 CHEM
 PAI
 PJK
-SENI
-SK
+
 ```
 Enter the grade for each of your subjects seperated by spaces and Done!
 
