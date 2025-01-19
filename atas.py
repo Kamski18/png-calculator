@@ -49,5 +49,5 @@ def calculate():
             return
 
     gpa = total / totalcredits
-    print(f"Your GPA is: {gpa:.2f}")
+    print(f"Your GPA is: {gpa:.3f}")
 calculate()
