@@ -12,12 +12,9 @@ CREDIT_HOUR: dict[str, int] = {
     "CHEM": 6,
     "PAI": 5,
     "PJK": 3,
-    "SENIREKA": 2,
-    "SK": 2,
 }
 
 GRADE_WEIGHTAGES: dict[str, float] = {
-    "L": 3.820925926,
     "A+": 4.0,
     "A": 4.0,
     "A-": 3.67,
@@ -45,8 +42,6 @@ weightages: dict[str, float] = {
     "CHEM": 0,
     "PAI": 0,
     "PJK": 0,
-    "SENIREKA": 0,
-    "SK": 0,
 }
 
 
